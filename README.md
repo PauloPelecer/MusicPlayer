@@ -2,7 +2,7 @@
 Codigo Feito Para Aparelhos Mobile
 Para execultar No Android Utilize o PyDroid3
 # Como Usar:
-  1-Baixe os arquivoa e salve na pasta Documents/Pydroid3
+  1-Baixe os arquivos e salve na pasta Documents/Pydroid3
   2-Abra o Pydroid
   3-Clique no Botao de menu 
   4-Clique em Terminal
