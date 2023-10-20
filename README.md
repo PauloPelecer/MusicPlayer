@@ -1,7 +1,7 @@
 # MusicPlayer
 Codigo Feito Para Aparelhos Mobile
 Para execultar No Android Utilize o PyDroid3
-# Como Usar:
+## Como Usar:
   1-Baixe os arquivos e salve na pasta Documents/Pydroid3
   <br>
   2-Abra o Pydroid
