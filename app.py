@@ -1,5 +1,6 @@
 import JyPyUI
 from mutagen.mp3 import MP3
+import os
 '''
 Toda Vez Que Usar o JyPyUI comente #import pygame para que o JyPyUI possa usalo para criar seus elementos 
 '''
